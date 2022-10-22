@@ -16,3 +16,7 @@ You have to write a program that will automatically fill the template.For this, 
 
 Use file functions in c to accomplish the same.
 
+
+
+![output](https://user-images.githubusercontent.com/109900001/197343658-8b13a80d-a0c4-453b-bf42-222986aff7aa.png)
+
